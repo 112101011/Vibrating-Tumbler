@@ -26,16 +26,17 @@ The fluctuations which are done here for the model after building are changing t
 ### Materials required:
 The following are materials needed to build a single vibrating tumbler. <br/>
 |S.no|Material|Quantity|
-1) Small plastic tumbler. (1)
-2) Springs (4)
-3) Computer Fan (24V)
-4) Shield of computer fan
-5) Toggle switch
-6) Voltage DC supply.
-7) Washers bolts and nuts.
-8) Wooden pieces
-9) Connecting wires.
-10) Different media
+|----|-----|---|
+|1)| Small plastic tumbler. | 1 |
+|2)| Springs |4 |
+|3)| Computer Fan (24V) |1|
+|4)| Shield of computer fan |1|
+|5)| Toggle switch | 1 |
+|6)| Voltage DC supply. |1|
+|7)| Washers bolts and nuts. |few|
+|8)| Wooden pieces |4|
+|9)| Connecting wires. |few|
+|10)| Different media 
 ➢ Wall nut shell powder
 ➢ Wall nut shell powder mixed with Al2O3.
 ➢ Corn Cob material
