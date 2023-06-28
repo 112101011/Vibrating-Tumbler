@@ -1,6 +1,5 @@
 # Vibrating-Tumbler
-
-![piccc_page-0001](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/cf4c2536-f883-4db9-b091-9451acebbdb3)
+![Pictur github](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/fc862cfa-48e8-4040-b56f-31d74b863cf7)
 
 
 ## Introduction:
@@ -59,7 +58,8 @@ The location of the eccentric will create load on the corresponding spring and t
 ### Experiments done:
 1) Vibrating tumbler with media wall nut shell powder [puting:](https://youtu.be/xbLiMERdkcY)
    [result](https://youtu.be/CHZ_myWAJmk)
-3) 
+2) [putting:](https://youtu.be/VJRho5P2fi4)
+   [result](https://youtu.be/iA2bA8FPogc)
 
 
 
