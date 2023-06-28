@@ -1,5 +1,8 @@
 # Vibrating-Tumbler
 
+![piccc_page-0001](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/cf4c2536-f883-4db9-b091-9451acebbdb3)
+
+
 ## Introduction:
 This project focuses on valorization of scrap. This readme file gives a brief glimpse of design and working of Vibrating tumbler which is used to remove the rust on the rusted things with the help of vibration.
 As the name of vibrating tumbler is evident by name its name it is mainly a tumbler and it is vibrated accordingly to generate vibrations and this vibrations are used to rub the test material and remove the rust to
@@ -19,6 +22,7 @@ great extent.
 ### Design: <br/>
 A vibrating tumbler is built by placing the tumbler on a wooden piece which is vibrated by placing computer fan under it. The vibrations are created on the base by using springs and computer fan. 
 Computer fan provides upward push and also toggling effect because of eccentric mass.
+
 This vibrating tumbler is tested against different arrangements and different set ups.
 
 The fluctuations which are done here for the model after building are changing the media, changing the eccentric mass. Test samples are tested against these different set ups to observe the importance of each fluctuation.
@@ -53,3 +57,9 @@ The location of the eccentric will create load on the corresponding spring and t
 ![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/73ca0a31-8f59-41af-a468-d3508c998c21)
 
 ### Experiments done:
+1) Vibrating tumbler with media wall nut shell powder [puting:](https://youtu.be/xbLiMERdkcY)
+   [result](https://youtu.be/CHZ_myWAJmk)
+3) 
+
+
+
