@@ -66,3 +66,17 @@ The location of the eccentric will create load on the corresponding spring and t
    [Experimentation and result](https://youtu.be/4fO6b7y3-aM)
 5) Vibrating tumbler with corn cob media.
 6) Vibrating tumbler with SiC abrasives.
+
+### Observations made so far:
+By observing the above results the results were good for wall nut shell
+powder with Al2O3 and SiC. These materials are showing good results
+compared to other media. I have observed the following:
+(freq)no-material > (freq)corn-cob > (freq)wall-nut shell powder
+
+### Conclusion & Future scope:
+More media can be used to test the model and come to a conclusion
+which media is better over another. The depth of rust removed can be
+compared from different media. 
+
+### Reference:
+
