@@ -1,5 +1,5 @@
 # Vibrating-Tumbler
-![Pictur github](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/fc862cfa-48e8-4040-b56f-31d74b863cf7)
+![Pictur github](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/62ea4704-60cc-474c-bb74-59fe66c48ff7)
 
 
 ## Introduction:
@@ -53,7 +53,7 @@ The following are materials needed to build a single vibrating tumbler. <br/>
 From the below picture we can note the effect of eccentric mass, a toggling effect is created to the vibrating tumbler.
 The location of the eccentric will create load on the corresponding spring and this will infact create toggling effect. More is the eccentric mass more are the vibrations.
 
-![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/73ca0a31-8f59-41af-a468-d3508c998c21)
+![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/af2a9503-36d9-4bb7-8b06-1139cf92f161)
 
 ### Experiments done:
 1) Vibrating tumbler with media wall nut shell powder
