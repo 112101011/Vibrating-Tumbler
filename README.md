@@ -37,8 +37,19 @@ The following are materials needed to build a single vibrating tumbler. <br/>
 |8)| Wooden pieces |4|
 |9)| Connecting wires. |few|
 |10)| Different media 
-➢ Wall nut shell powder
-➢ Wall nut shell powder mixed with Al2O3.
-➢ Corn Cob material
-➢ Sand
-➢ SiC (silicon carbide abbrasives
+| |➢ Wall nut shell powder |0.5kg|
+||➢ Wall nut shell powder mixed with Al2O3.|0.5kg|
+||➢ Corn Cob material |0.5kg|
+||➢ Sand|0.5kg|
+||➢ SiC (silicon carbide abbrasives) |0.5kg|
+
+### Model:
+
+### Role of eccentric mass:
+
+From the below picture we can note the effect of eccentric mass, a toggling effect is created to the vibrating tumbler.
+The location of the eccentric will create load on the corresponding spring and this will infact create toggling effect. More is the eccentric mass more are the vibrations.
+
+![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/73ca0a31-8f59-41af-a468-d3508c998c21)
+
+### Experiments done:
