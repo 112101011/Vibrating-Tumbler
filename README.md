@@ -56,10 +56,13 @@ The location of the eccentric will create load on the corresponding spring and t
 ![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/73ca0a31-8f59-41af-a468-d3508c998c21)
 
 ### Experiments done:
-1) Vibrating tumbler with media wall nut shell powder [puting:](https://youtu.be/xbLiMERdkcY)
-   [result](https://youtu.be/CHZ_myWAJmk)
-2) [putting:](https://youtu.be/VJRho5P2fi4)
-   [result](https://youtu.be/iA2bA8FPogc)
+1) Vibrating tumbler with media wall nut shell powder
+   [Experimentation](https://youtu.be/xbLiMERdkcY)
+   [Result](https://youtu.be/CHZ_myWAJmk)
+3) Vibrating tumbler with media wall nut shell powder + Al2O3
+   [Experimentation](https://youtu.be/VJRho5P2fi4)
+   [Result](https://youtu.be/iA2bA8FPogc)
+4) 
 
 
 
