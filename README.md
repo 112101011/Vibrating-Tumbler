@@ -62,7 +62,11 @@ The location of the eccentric will create load on the corresponding spring and t
 3) Vibrating tumbler with media wall nut shell powder + Al2O3
    [Experimentation](https://youtu.be/VJRho5P2fi4)
    [Result](https://youtu.be/iA2bA8FPogc)
-4) 
+4) Vibrating tumbler with media sand.
+   
+   
+4) Vibrating tumbler with corn cob media
+5) Vibrating tumbler with SiC abrasives
 
 
 
