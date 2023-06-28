@@ -63,10 +63,6 @@ The location of the eccentric will create load on the corresponding spring and t
    [Experimentation](https://youtu.be/VJRho5P2fi4)
    [Result](https://youtu.be/iA2bA8FPogc)
 4) Vibrating tumbler with media sand.
-   
-   
-4) Vibrating tumbler with corn cob media
-5) Vibrating tumbler with SiC abrasives
-
-
-
+   [Experimentation and result](https://youtu.be/4fO6b7y3-aM)
+5) Vibrating tumbler with corn cob media.
+6) Vibrating tumbler with SiC abrasives.
