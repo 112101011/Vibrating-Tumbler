@@ -93,9 +93,9 @@ The location of the eccentric will create load on the corresponding spring and t
    [Results](https://youtu.be/kxEg5nYQuJ8)
 
 ### Experiments for calculating frequency of vibrations:
-1) [Empty Vibrating tumbler](https://youtu.be/oQ6hp5ZWci4)
-2) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing wall nut shell powder](https://youtu.be/30utQ3CMtSQ)  
-3) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing corn cob](https://youtu.be/Slh3yPBu_0I)
+1) [Empty Vibrating tumbler](https://youtu.be/oQ6hp5ZWci4) (200Hz)
+2) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing wall nut shell powder](https://youtu.be/30utQ3CMtSQ)  (37Hz)
+3) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing corn cob](https://youtu.be/Slh3yPBu_0I) (80Hz - 100Hz)
 
 
 I have observed the following from the calculation of frequencies using vibrometer: <br/>
