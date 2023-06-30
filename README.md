@@ -28,11 +28,10 @@ The fluctuations which are done here for the model after building are changing t
 <br/>
 
 Sectional view: <br/>
-![Sectional vewie](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/eb3bfc21-4d21-4283-b1cc-6aabca8a2f3e)
-
+![Sectional vewie](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/773cb2b0-425d-42cc-8d79-802658a2f2c5)
 
 Suspension methods: <br/>
-![suspension methods](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/d8e6491d-3bbf-4595-9d0d-3f1ced032d5f)
+![suspension methods](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/47604302-9234-41ea-a9c7-f7de0397f25e)
 
 ### Materials required:
 The following are materials needed to build a single vibrating tumbler. <br/>
