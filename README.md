@@ -49,7 +49,7 @@ The following are materials needed to build a single vibrating tumbler. <br/>
 |9)| Connecting wires. |few|
 |10)| Different media 
 | |➢ Wall nut shell powder |0.5kg|
-||➢ Wall nut shell powder mixed with Al2O3.|0.5kg|
+||➢ Al2O3.|50g|
 ||➢ Corn Cob material |0.5kg|
 ||➢ Sand|0.5kg|
 ||➢ SiC (silicon carbide abbrasives) |0.5kg|
@@ -59,6 +59,8 @@ Materials (or) instruments used but not limited to: <br>
 
 
 ### Model:
+![vibrating tumbler pic](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/276f47e6-ae84-457f-8689-3d7b2685e3de)
+
 
 ### Role of springs:
 Video on vibrations due to springs: <br/>
