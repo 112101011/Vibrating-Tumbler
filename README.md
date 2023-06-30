@@ -58,14 +58,16 @@ Materials (or) instruments used but not limited to: <br>
 ![materials](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/8f102202-4f0f-43ae-8079-489809922b50)
 
 
-
-
-
 ### Model:
 
 ### Role of springs:
-Vedio on vibratios due to springs: <br/>
-https://github.com/112101011/Vibrating-Tumbler/assets/111628378/9a5b2d88-f477-4cd2-be26-9ed8e1ad5226
+Vedio on vibrations due to springs: <br/>
+https://github.com/112101011/Vibrating-Tumbler/assets/111628378/633b05dc-14df-4e2c-8b1e-7d1c38840c05
+<br/>
+Placing wooden sheet on the springs: <br/>
+![placing sheet](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/fc5b0a19-bcc1-4994-918e-09b56cc0c010)
+
+
 
 ### Role of eccentric mass:
 
@@ -81,11 +83,13 @@ The location of the eccentric will create load on the corresponding spring and t
 3) Vibrating tumbler with media wall nut shell powder + Al2O3 <br/>
    [Experimentation](https://youtu.be/VJRho5P2fi4) <br/>
    [Result](https://youtu.be/iA2bA8FPogc)
-4) Vibrating tumbler with media sand. <br/>
+   ![before and after](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/1316997c-0d20-4e7d-b86a-496762f67728) <br/>
+   (From the clear observation we can see that some resut is removed on the bolt). <br/>
+5) Vibrating tumbler with media sand. <br/>
    [Experimentation and result](https://youtu.be/4fO6b7y3-aM)
-5) Vibrating tumbler with corn cob media. <br/>
+6) Vibrating tumbler with corn cob media. <br/>
    [Experimentation and results](https://youtu.be/48lnPWOkiCg)
-6) Vibrating tumbler with SiC abrasives. <br/>
+7) Vibrating tumbler with SiC abrasives. <br/>
    [Experimentation](https://youtu.be/r87f6U2eviE) <br/>
    [Results](https://youtu.be/kxEg5nYQuJ8)
 
