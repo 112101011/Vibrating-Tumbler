@@ -25,6 +25,14 @@ Computer fan provides upward push and also toggling effect because of eccentric 
 This vibrating tumbler is tested against different arrangements and different set ups.
 
 The fluctuations which are done here for the model after building are changing the media, changing the eccentric mass. Test samples are tested against these different set ups to observe the importance of each fluctuation.
+<br/>
+
+Sectional view: <br/>
+![Sectional vewie](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/eb3bfc21-4d21-4283-b1cc-6aabca8a2f3e)
+
+
+Suspension methods: <br/>
+![suspension methods](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/d8e6491d-3bbf-4595-9d0d-3f1ced032d5f)
 
 ### Materials required:
 The following are materials needed to build a single vibrating tumbler. <br/>
@@ -46,6 +54,16 @@ The following are materials needed to build a single vibrating tumbler. <br/>
 ||➢ Sand|0.5kg|
 ||➢ SiC (silicon carbide abbrasives) |0.5kg|
 
+Materials (or) instruments used but not limited to: <br>
+![materials](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/8f102202-4f0f-43ae-8079-489809922b50)
+
+
+
+
+
+https://github.com/112101011/Vibrating-Tumbler/assets/111628378/9a5b2d88-f477-4cd2-be26-9ed8e1ad5226
+
+
 ### Model:
 
 ### Role of eccentric mass:
@@ -56,16 +74,19 @@ The location of the eccentric will create load on the corresponding spring and t
 ![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/af2a9503-36d9-4bb7-8b06-1139cf92f161)
 
 ### Experiments done:
-1) Vibrating tumbler with media wall nut shell powder
-   [Experimentation](https://youtu.be/xbLiMERdkcY)
+1) Vibrating tumbler with media wall nut shell powder <br/>
+   [Experimentation](https://youtu.be/xbLiMERdkcY) <br/>
    [Result](https://youtu.be/CHZ_myWAJmk)
-3) Vibrating tumbler with media wall nut shell powder + Al2O3
-   [Experimentation](https://youtu.be/VJRho5P2fi4)
+3) Vibrating tumbler with media wall nut shell powder + Al2O3 <br/>
+   [Experimentation](https://youtu.be/VJRho5P2fi4) <br/>
    [Result](https://youtu.be/iA2bA8FPogc)
-4) Vibrating tumbler with media sand.
+4) Vibrating tumbler with media sand. <br/>
    [Experimentation and result](https://youtu.be/4fO6b7y3-aM)
-5) Vibrating tumbler with corn cob media.
-6) Vibrating tumbler with SiC abrasives.
+5) Vibrating tumbler with corn cob media. <br/>
+   [Experimentation and results](https://youtu.be/48lnPWOkiCg)
+6) Vibrating tumbler with SiC abrasives. <br/>
+   [Experimentation](https://youtu.be/r87f6U2eviE) <br/>
+   [Results](https://youtu.be/kxEg5nYQuJ8)
 
 ### Observations made so far:
 By observing the above results the results were good for wall nut shell
