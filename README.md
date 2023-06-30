@@ -59,8 +59,7 @@ Materials (or) instruments used but not limited to: <br>
 
 
 ### Model:
-![vibrating tumbler pic](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/276f47e6-ae84-457f-8689-3d7b2685e3de)
-
+![vibrating tumbler pic](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/6d1527f6-ef13-4182-8ca8-a1b02e97687e)
 
 ### Role of springs:
 Video on vibrations due to springs: <br/>
