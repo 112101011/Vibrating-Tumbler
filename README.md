@@ -67,10 +67,7 @@ Video on vibrations due to springs: <br/>
 Placing wooden sheet on the springs: <br/>
 ![placing sheet](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/fc5b0a19-bcc1-4994-918e-09b56cc0c010)
 
-
-
 ### Role of eccentric mass:
-
 From the below picture we can note the effect of eccentric mass, a toggling effect is created to the vibrating tumbler.
 The location of the eccentric will create load on the corresponding spring and this will infact create toggling effect. More is the eccentric mass more are the vibrations.
 
@@ -95,11 +92,21 @@ The location of the eccentric will create load on the corresponding spring and t
    [Experimentation](https://youtu.be/r87f6U2eviE) <br/>
    [Results](https://youtu.be/kxEg5nYQuJ8)
 
+### Experiments for calculating frequency of vibrations:
+1) [Empty Vibrating tumbler](https://youtu.be/oQ6hp5ZWci4)
+2) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing wall nut shell powder](https://youtu.be/30utQ3CMtSQ)  
+3) [Frequency of vibrations calulated using vibrometer of the vibrating tumbler containing corn cob](https://youtu.be/Slh3yPBu_0I)
+
+
+I have observed the following from the calculation of frequencies using vibrometer: <br/>
+(freq)no-material > (freq)corn-cob > (freq)wall-nut shell powder
+
+
 ### Observations made so far:
 By observing the above results the results were good for wall nut shell
 powder with Al2O3 and SiC. These materials are showing good results
-compared to other media. I have observed the following:
-(freq)no-material > (freq)corn-cob > (freq)wall-nut shell powder
+compared to other media. <br/>
+
 
 ### Conclusion & Future scope:
 More media can be used to test the model and come to a conclusion
