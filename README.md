@@ -76,7 +76,7 @@ The location of the eccentric will create load on the corresponding spring and t
 
 ![pic fans](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/af2a9503-36d9-4bb7-8b06-1139cf92f161)
 
-### Experiments done:
+### Experiments done so far:
 1) Vibrating tumbler with media wall nut shell powder <br/>
    [Experimentation](https://youtu.be/xbLiMERdkcY) <br/>
    [Result](https://youtu.be/CHZ_myWAJmk)
@@ -85,6 +85,8 @@ The location of the eccentric will create load on the corresponding spring and t
    [Result](https://youtu.be/iA2bA8FPogc)
    ![before and after](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/1316997c-0d20-4e7d-b86a-496762f67728) <br/>
    (From the clear observation we can see that some resut is removed on the bolt). <br/>
+   <br/>
+   Observation: Media : wall nut shell granulates + aluminum oxide is giving good result when compared to media: wall nut shell powder.
 5) Vibrating tumbler with media sand. <br/>
    [Experimentation and result](https://youtu.be/4fO6b7y3-aM)
 6) Vibrating tumbler with corn cob media. <br/>
