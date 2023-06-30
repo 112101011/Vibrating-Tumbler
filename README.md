@@ -61,10 +61,11 @@ Materials (or) instruments used but not limited to: <br>
 
 
 
-https://github.com/112101011/Vibrating-Tumbler/assets/111628378/9a5b2d88-f477-4cd2-be26-9ed8e1ad5226
-
-
 ### Model:
+
+### Role of springs:
+Vedio on vibratios due to springs: <br/>
+https://github.com/112101011/Vibrating-Tumbler/assets/111628378/9a5b2d88-f477-4cd2-be26-9ed8e1ad5226
 
 ### Role of eccentric mass:
 
