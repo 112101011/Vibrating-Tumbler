@@ -62,8 +62,8 @@ Materials (or) instruments used but not limited to: <br>
 
 ### Role of springs:
 Vedio on vibrations due to springs: <br/>
-https://github.com/112101011/Vibrating-Tumbler/assets/111628378/633b05dc-14df-4e2c-8b1e-7d1c38840c05
-<br/>
+https://github.com/112101011/Vibrating-Tumbler/assets/111628378/e9ec5f5f-7a7e-412f-a222-7d7d4515d495
+
 Placing wooden sheet on the springs: <br/>
 ![placing sheet](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/fc5b0a19-bcc1-4994-918e-09b56cc0c010)
 
