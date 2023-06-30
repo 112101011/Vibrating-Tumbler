@@ -105,6 +105,3 @@ compared to other media. I have observed the following:
 More media can be used to test the model and come to a conclusion
 which media is better over another. The depth of rust removed can be
 compared from different media. 
-
-### Reference:
-
