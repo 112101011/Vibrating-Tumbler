@@ -1,6 +1,7 @@
 # Vibrating-Tumbler
 ![Pictur github](https://github.com/112101011/Vibrating-Tumbler/assets/111628378/62ea4704-60cc-474c-bb74-59fe66c48ff7)
 
+// to add zirconium balls, and also al2o3 pics
 
 ## Introduction:
 This project focuses on valorization of scrap. This readme file gives a brief glimpse of design and working of Vibrating tumbler which is used to remove the rust on the rusted things with the help of vibration.
